@@ -10,7 +10,7 @@
 `python -m pip freeze > requirements.txt`
 6. creamos el main.py
 7. Corremos el servidor 
-`fastapi dev main.py`
+`fastapi dev app/main.py`
 8. Instalar TestClient
 `pip install httpx`
 9. Instalar Pytest
