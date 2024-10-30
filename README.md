@@ -11,3 +11,7 @@
 6. creamos el main.py
 7. Corremos el servidor 
 `fastapi dev main.py`
+8. Instalar TestClient
+`pip install httpx`
+9. Instalar Pytest
+`pip install pytest`
